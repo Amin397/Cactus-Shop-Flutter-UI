@@ -1,21 +1,9 @@
-<<<<<<< HEAD
-# cactusshopapp
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Cactus-Shop-Flutter-UI
 simple Flutter application ui 
->>>>>>> 91e76087072f74a7e13ab42cba518197f8335c6a
+
+
+![Screenshot_1591714920](https://user-images.githubusercontent.com/51218670/84169362-c9255880-aa8d-11ea-83c6-44bcf5145d16.png)
+
+
+![Screenshot_1591716164](https://user-images.githubusercontent.com/51218670/84169879-62546f00-aa8e-11ea-93cf-6199f6c40522.png)
